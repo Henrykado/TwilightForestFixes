@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "twilightforestfixes",
+		"name": "Twilight Forest Fixes",
+		"description": "Fixes a few issues present in The Twilight Forest mod.",
+		"version": "${version}",
+		"mcversion": "1.12.2",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["Henrykado", "XemnesXIII"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
